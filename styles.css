@@ -9,6 +9,9 @@ html {
     scroll-behavior: smooth;
 }
 
+#home p {
+    margin-bottom: 2rem; /* Adjust this value to add more or less space */
+}
 .cta-button {
     display: inline-block; /* Ensure the button stays inline but respects margin */
     background-color: #4b59f1;
